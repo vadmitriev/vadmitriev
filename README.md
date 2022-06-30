@@ -27,11 +27,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 
-&nbsp;
-[![Profile badge](https://www.codewars.com/users/vadmitriev/badges/small)](https://www.codewars.com/users/Imansaparov)
-&nbsp;
-
-<img height="160em" align="left" alt="Vadmitriev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vadmitriev&theme=algolia&layout=compact" />
 
 
 
